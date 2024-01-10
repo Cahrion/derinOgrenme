@@ -1,0 +1,2 @@
+# derinOgrenme
+Derin Öğrenme Proje
